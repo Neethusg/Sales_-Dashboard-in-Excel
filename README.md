@@ -1,4 +1,4 @@
-# Sales_-Dashboard-in-Excel
+# Sales_Dashboard-in-Excel
 Excel module end assignment
 # Module end assignment
 
